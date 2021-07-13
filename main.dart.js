@@ -53948,7 +53948,7 @@ aD:function(){var s=null
 return new L.ED([new L.Am(s),new L.Ao(s),new L.Aq(s),new L.Ar(s),new L.As(s),new L.At(s),new L.Au(s)],C.m)}}
 L.ED.prototype={
 L:function(a,a0){var s,r,q,p,o,n=null,m="Roboto_Mono",l=t.w,k=$.mj=a0.C(l).f.a.b*0.025,j=a0.C(l).f,i=T.b2(n,a0.C(l).f.a.b*0.015,n),h=L.cO("About:",n,n,n,n,n,n,n,A.b7(n,n,C.i,n,n,n,n,n,m,n,n,k,n,n,n,n,!0,n,n,n,n,n,n),n,n,n),g=T.b2(n,a0.C(l).f.a.b*0.015,n),f=K.kA(C.uZ,new L.dR("assets/pic.png",n,n),a0.C(l).f.a.b*0.12),e=T.b2(n,a0.C(l).f.a.b*0.015,n),d=a0.C(l).f,c=a0.C(l).f,b=A.b7(n,n,C.i,n,n,n,n,n,m,n,n,k,n,n,n,n,!0,n,n,n,n,n,n)
-d=M.aH(n,M.dS("Hi there! I'm Rurdratej Laxman Chilkewar, a Third Year Computer Engineering Student. I love Coding & creating useful Apps ,I have been learning programming for the past two years now.",M.dS("Hi there! I'm Rurdratej L. C., a 2nd Year Computer Engg. Student. I love Coding & creating useful Apps",n,A.b7(n,n,C.i,n,n,n,n,n,m,n,n,k,n,n,n,n,!0,n,n,n,n,n,n)),b),C.k,C.aW,n,n,n,c.a.b*0.15,n,n,n,n,d.a.a*0.5)
+d=M.aH(n,M.dS("Hi there! I'm Rurdratej Laxman Chilkewar, a Third Year Computer Engineering Student. I love Coding & creating useful Apps ,I have been learning programming for the past two years now.",M.dS("Hi there! I'm Rurdratej L. C., a 3rd Year Computer Engg. Student. I love Coding & creating useful Apps",n,A.b7(n,n,C.i,n,n,n,n,n,m,n,n,k,n,n,n,n,!0,n,n,n,n,n,n)),b),C.k,C.aW,n,n,n,c.a.b*0.15,n,n,n,n,d.a.a*0.5)
 c=T.b2(n,a0.C(l).f.a.b*0.015,n)
 j=M.dS("Programming languages and Technologies that I'm familiar with:",n,A.b7(n,n,C.i,n,n,n,n,n,m,n,n,j.a.b*0.015,n,n,n,n,!0,n,n,n,n,n,n))
 b=T.b2(n,a0.C(l).f.a.b*0.015,n)
